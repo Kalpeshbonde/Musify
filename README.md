@@ -1,6 +1,6 @@
-# React Spotify - Musify
+# Musify: THE MUSIC WEBSITE
 
-**Musify: THE MUSIC WEBSITE**
+**React Spotify - Musify**
 
 Musify is a simple and free music player built with React and inspired by Spotify. This project aims to deliver a seamless and user-friendly mp3 music player experience. Musify integrates the best features of existing music players while eliminating unnecessary functions, making it an efficient and practical application. The project is designed with continuous improvement in mind, incorporating user feedback to adapt to changing requirements.
 
